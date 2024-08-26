@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "lol" 
+=======
+"lolllen" 
+>>>>>>> c5916df (test)
